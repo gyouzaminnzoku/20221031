@@ -59,7 +59,7 @@ nav li a{
 .nice-textbox{
   position: absolute;
   display: block;
-  width: 35%;
+  width: %;
   /*margin-top: 10px;
   margin-left: 10px;*/
   padding: 15px;
@@ -181,4 +181,8 @@ input:focus{
 }
 .Dracozolt{
   z-index: 1000;
+}
+.Ho-Oh{
+  text-align: right;
+	
 }
